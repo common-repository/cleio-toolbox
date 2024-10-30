@@ -1,0 +1,1288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CleioToolbox Plugin WordPress\n"
+"POT-Creation-Date: 2014-10-06 09:08+0100\n"
+"PO-Revision-Date: 2014-10-06 09:08+0100\n"
+"Last-Translator: Corinne Stoppelli <cstoppelli@gmail.com>\n"
+"Language-Team: cleio&co\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;_n;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cleio-resources/classes/Cleio_Helpers.php:33
+#: ../resources/classes/widgets/CleioToolbox_FeaturedPhoto.php:46
+#: ../resources/classes/widgets/CleioToolbox_FeaturedPhoto.php:51
+msgid "Permalink to"
+msgstr "Permalien vers"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:12
+msgid "Valid"
+msgstr "Valide"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:12
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:64
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:68
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:96
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:84
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:85
+msgid "Support"
+msgstr "Assistance"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:86
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:140
+msgid "Options updated!"
+msgstr "Options sauvegardées!"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:141
+msgid "Options not saved!"
+msgstr "Les options n'ont pas été sauvegardées!"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:163
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:195
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:255
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:739
+msgid ""
+"It seems that your access token has not been configured yet or has expired. "
+"You should"
+msgstr ""
+"Votre jeton d'accès semble ne pas avoir été configuré, ou alors a expiré. "
+"Vous devriez"
+
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:164
+#: ../cleio-resources/classes/framework/Cleio_Framework.php:196
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:256
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:740
+msgid "set it now"
+msgstr "le mettre en place maintenant"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:7
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:38
+msgid ""
+"Select your desired settings, then copy/paste the generated shortcode in any "
+"page."
+msgstr ""
+"Choisissez les paramètres désirés, puis copiez-collez le shortcode généré "
+"dans n'importe quelle page."
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:10
+msgid "Hide blog categories"
+msgstr "Cacher les catégories du blog"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:14
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:49
+msgid "Filter something out?"
+msgstr "Exclure quelque chose?"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:16
+msgid "WordPress Pages"
+msgstr ""
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:20
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:86
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:180
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:396
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:514
+msgid "Country Pages"
+msgstr "Pages Pays"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:26
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:91
+msgid "Generated shortcode"
+msgstr "Shortcode généré"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:28
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:93
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:528
+msgid "Copy shortcode"
+msgstr "Copier le shortcode"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:42
+msgid "Pagination"
+msgstr "Pagination"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:43
+msgid "Yearly"
+msgstr "Annuel"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:44
+msgid "Yearly and Monthly"
+msgstr "Annuel et Mensuel"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:261
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:745
+msgid "Account name"
+msgstr "Nom du compte"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:263
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:747
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:270
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:735
+msgid ""
+"Warning! The PHP extension cURL is not activated on your server. Please "
+"contact your host in order to activate it."
+msgstr ""
+"Attention! L'extension PHP cURL n'est pas activée sur votre serveur. "
+"Veuillez contacter votre hébergeur afin de l'activer."
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:276
+msgid "Hello"
+msgstr "Bonjour"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:277
+msgid "You're already connected to Cleio&Co"
+msgstr "Vous êtes déjà connecté à Cleio&Co"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:281
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:282
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:291
+msgid ""
+"These settings define the style of the optional location map that appears in "
+"your posts and pages."
+msgstr ""
+"Ces paramètres définissent le style de la carte optionnelle qui apparaît "
+"dans vos posts et pages."
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:295
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:424
+msgid "Map skin"
+msgstr "Apparence de la carte"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:308
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:436
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:323
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:450
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:569
+msgid "Some pins seem to be missing. Did you"
+msgstr "Des épingles semblent manquer. Les avez-vous"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:323
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:450
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:569
+msgid "upload them properly"
+msgstr "uploadées correctement"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:325
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:452
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:571
+msgid "We did not find your pin set. Did you"
+msgstr "Nous n'avons pas trouvé vos épingles. Les avez-vous"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:325
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:452
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:571
+msgid "upload it in the right place"
+msgstr "uploadées au bon endroit"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:329
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:454
+msgid "Pin set"
+msgstr "Epingles"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:330
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:455
+msgid "Use Cleio Maps default pin set (customizable color)"
+msgstr "Utiliser les épingles par défaut de Cleio Maps (couleur configurable)"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:331
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:456
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:575
+msgid "Use your own pin set"
+msgstr "Utiliser ses propres épingles"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:333
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:458
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:577
+msgid "Pin color"
+msgstr "Couleur des épingles"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:340
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:471
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:341
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:472
+msgid "Width"
+msgstr "Largeur"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:345
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:476
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:352
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:481
+msgid "Exclude content types"
+msgstr "Exclure des types de contenu"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:391
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:511
+msgid "Locations that are not linked to any content (check-ins)"
+msgstr "Positions géographiques non liées à des types de contenu (check-ins)"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:399
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:517
+msgid "Filter out by date or amount of content"
+msgstr "Filtrer par date our par quantité de contenu"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:403
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:519
+msgid "Amount of (latest) content to show"
+msgstr "Quantité de contenu (récent) à afficher"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:404
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:520
+msgid "0 = No limits, all your content will be displayed."
+msgstr "0 = Pas de limite, tout votre contenu sera affiché."
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:406
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:522
+msgid "Hide content prior to"
+msgstr "Cacher le contenu antérieur à"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:467
+msgid "Activate group markers"
+msgstr "Activez les marqueurs groupant les épingles"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:468
+msgid "Group markers text color"
+msgstr "Couleur du texte des groupes d'épingles"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:525
+msgid "Add this map anywhere"
+msgstr "Ajoutez cette carte où vous le désirez"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:526
+msgid "Copy and paste the following shortcode into any page or post."
+msgstr "Copiez-collez le shortcode suivant dans n'importe quelle page ou post."
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:574
+msgid "Use Cleio Maps default pin set and customize the color"
+msgstr ""
+"Utiliser les épingles par défaut de Cleio Maps et configurer leur couleur"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:650
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: ../cleio-resources/classes/framework/Cleio_FrameworkFields.php:701
+msgid "Auto"
+msgstr "Auto"
+
+#: ../resources/classes/CleioToolbox_Admin.php:67
+#: ../resources/classes/CleioToolbox_Admin.php:68
+msgid "Cleio"
+msgstr "Cleio"
+
+#: ../resources/classes/CleioToolbox_Admin.php:69
+#: ../resources/classes/CleioToolbox_Admin.php:72
+msgid "Cleio - Toolbox"
+msgstr "Cleio - ToolBox"
+
+#: ../resources/classes/CleioToolbox_Admin.php:69
+#: ../resources/classes/CleioToolbox_Admin.php:72
+msgid "Cleio Toolbox"
+msgstr "Cleio ToolBox"
+
+#: ../resources/classes/CleioToolbox_Admin.php:85
+#: ../resources/classes/CleioToolbox_Admin.php:86
+#: ../resources/classes/CleioToolbox_Admin.php:118
+msgid "Loop filter"
+msgstr "Filtre Loop"
+
+#: ../resources/classes/CleioToolbox_Admin.php:91
+#: ../resources/classes/CleioToolbox_Admin.php:92
+#: ../resources/classes/CleioToolbox_Admin.php:137
+msgid "RSS filter"
+msgstr "Filtre RSS"
+
+#: ../resources/classes/CleioToolbox_Admin.php:97
+#: ../resources/classes/CleioToolbox_Admin.php:98
+#: ../resources/classes/CleioToolbox_Admin.php:156
+msgid "Social & Data"
+msgstr "Social & Données"
+
+#: ../resources/classes/CleioToolbox_Admin.php:103
+#: ../resources/classes/CleioToolbox_Admin.php:104
+#: ../resources/classes/CleioToolbox_Admin.php:365
+msgid "Archives Generator"
+msgstr "Générateur d'Archives"
+
+#: ../resources/classes/CleioToolbox_Admin.php:109
+#: ../resources/classes/CleioToolbox_Admin.php:110
+#: ../resources/classes/CleioToolbox_Admin.php:375
+msgid "Sitemap Generator"
+msgstr "Générateur de Sitemap"
+
+#: ../resources/classes/CleioToolbox_Admin.php:119
+msgid "Controls what is published in your homepage or blog feed."
+msgstr ""
+"Contrôle ce qui est publié sur la loop de votre page d'accueil ou votre page "
+"blog."
+
+#: ../resources/classes/CleioToolbox_Admin.php:123
+msgid "Content types to display in the home/blog loop"
+msgstr "Types de contenu à afficher dans la loop home/blog"
+
+#: ../resources/classes/CleioToolbox_Admin.php:138
+msgid "Controls what is published in your RSS feed."
+msgstr "Contrôle ce qui est publié dans votre flux RSS."
+
+#: ../resources/classes/CleioToolbox_Admin.php:142
+msgid "Content types to display in the RSS feed"
+msgstr "Types de contenu à afficher dans le flux RSS"
+
+#: ../resources/classes/CleioToolbox_Admin.php:157
+msgid "Input your data here in order to use Cleio Social widgets."
+msgstr ""
+"Insérez vos données afin de les rendre utilisables pour le widget Cleio "
+"Social."
+
+#: ../resources/classes/CleioToolbox_Admin.php:161
+msgid "Contact information"
+msgstr "Information de contact"
+
+#: ../resources/classes/CleioToolbox_Admin.php:164
+msgid "E-mail"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:173
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: ../resources/classes/CleioToolbox_Admin.php:182
+msgid "Skype ID"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:195
+msgid "Social Networks"
+msgstr "Réseaux sociaux"
+
+#: ../resources/classes/CleioToolbox_Admin.php:199
+msgid "Facebook"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:202
+msgid "Facebook Personal Account"
+msgstr "Page Facebook personnelle"
+
+#: ../resources/classes/CleioToolbox_Admin.php:212
+msgid "Facebook Page"
+msgstr "Page Facebook"
+
+#: ../resources/classes/CleioToolbox_Admin.php:225
+#: ../resources/classes/CleioToolbox_Admin.php:228
+msgid "Twitter"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:237
+msgid "Twitter Login"
+msgstr "Compte Twitter"
+
+#: ../resources/classes/CleioToolbox_Admin.php:245
+#: ../resources/classes/CleioToolbox_Admin.php:248
+msgid "Instagram"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:257
+msgid "Instagram Login"
+msgstr "Compte Instagram"
+
+#: ../resources/classes/CleioToolbox_Admin.php:266
+msgid "Other social networks"
+msgstr "Autres réseaux sociaux"
+
+#: ../resources/classes/CleioToolbox_Admin.php:269
+msgid "Delicious"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:278
+msgid "Flickr"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:287
+msgid "Google +"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:296
+msgid "LinkedIn"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:305
+msgid "Vimeo"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:314
+msgid "Youtube"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:323
+msgid "Pinterest"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:332
+msgid "Foursquare"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:341
+msgid "Tumblr"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Admin.php:350
+msgid "Vine"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Contents.php:225
+#: ../resources/classes/CleioToolbox_Contents.php:233
+msgid "Add new"
+msgstr "Ajouter"
+
+#: ../resources/classes/CleioToolbox_Contents.php:226
+msgid "Edit Featured Photo"
+msgstr "Modifier Post Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:227
+msgid "New Featured Photo"
+msgstr "Nouveau Post Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:228
+msgid "Preview Featured Photo"
+msgstr "Prévisualiser Post Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:229
+msgid "Search Featured Photos"
+msgstr "Rechercher Post Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:230
+msgid "No Featured Photos found."
+msgstr "Pas de Post Photo trouvé."
+
+#: ../resources/classes/CleioToolbox_Contents.php:231
+msgid "No Featured Photos found in Trash."
+msgstr "Pas de Post Photo trouvé dans la corbeille."
+
+#: ../resources/classes/CleioToolbox_Contents.php:232
+msgid "Photos Posts"
+msgstr "Posts Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:240
+msgid "Featured Photo"
+msgstr "Post Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:241
+msgid "Featured Photo Item"
+msgstr "Post Photo"
+
+#: ../resources/classes/CleioToolbox_Contents.php:262
+msgid "Cleio Settings"
+msgstr "Paramètres Cleio"
+
+#: ../resources/classes/CleioToolbox_Contents.php:282
+msgid "Don't show in home/blog loop"
+msgstr "Ne pas afficher dans la loop de la home ou du blog"
+
+#: ../resources/classes/CleioToolbox_Contents.php:296
+msgid "Don't show in RSS feed"
+msgstr "Ne pas afficher dans le flux RSS"
+
+#: ../resources/classes/CleioToolbox_Shortcodes.php:35
+msgid "Countries"
+msgstr "Pays"
+
+#: ../resources/classes/CleioToolbox_Shortcodes.php:82
+msgid "Pages"
+msgstr ""
+
+#: ../resources/classes/CleioToolbox_Shortcodes.php:88
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:9
+msgid "CleioToolbox - Bio"
+msgstr ""
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:12
+msgid "Tell your readers who you are! With custom picture and Read More link."
+msgstr ""
+"Dites à vos lecteurs qui vous êtes! Avec une photo configurable et un lien "
+"\"En savoir plus\"."
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:58
+msgid "Read more"
+msgstr "En savoir plus"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:113
+msgid "Widget title (optional)"
+msgstr "Titre du widget (optionnel)"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:118
+msgid "Short biography"
+msgstr "Courte biographie"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:125
+msgid "Read more link (optional)"
+msgstr "Lien \"En savoir plus\" (optionnel)"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:130
+msgid "Portrait"
+msgstr ""
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:132
+msgid "Upload new picture"
+msgstr "Ajouter une nouvelle photo"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:133
+msgid "Use Wordpress user avatar"
+msgstr "Utiliser votre avatar WordPress"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:134
+msgid "No image"
+msgstr "Pas d'image"
+
+#: ../resources/classes/widgets/CleioToolbox_Bio.php:153
+msgid "The picture preview is updated after saving"
+msgstr "L'avatar sera actualisé après sauvegarde"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:9
+msgid "Cleio Toolbox - Facebook Like Box"
+msgstr ""
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:11
+msgid "The Facebook Like Box advertizes your Facebook Page and Fans."
+msgstr "La Facebook Like Box affiche votre Page Facebook et vos Fans."
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:99
+msgid "Link your Facebook Page first!"
+msgstr "Liez votre Page Facebook avant tout!"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:102
+msgid "Your page"
+msgstr "Votre page"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:102
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:173
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:136
+msgid "edit"
+msgstr "modifier"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:120
+#: ../resources/classes/widgets/CleioToolbox_FeaturedPhoto.php:85
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:179
+#: ../resources/classes/widgets/CleioToolbox_Social.php:116
+msgid "Title:"
+msgstr "Titre:"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:125
+msgid "Width (in pixels):"
+msgstr "Largeur (en pixels)"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:130
+msgid "Height (in pixels):"
+msgstr "Hauteur (en pixels)"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:135
+msgid "Select theme:"
+msgstr "Sélectionner un thème"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:143
+msgid "Show Faces"
+msgstr "Montrer les visages"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:148
+msgid "Show Stream"
+msgstr "Afficher le flux"
+
+#: ../resources/classes/widgets/CleioToolbox_FacebookLikebox.php:153
+msgid "Show Header"
+msgstr "Afficher l'entête"
+
+#: ../resources/classes/widgets/CleioToolbox_FeaturedPhoto.php:8
+msgid "CleioToolbox - Latest Photo Post"
+msgstr "Cleio ToolBox - Dernier Post Photo"
+
+#: ../resources/classes/widgets/CleioToolbox_FeaturedPhoto.php:11
+msgid "Display your latest Featured Photo."
+msgstr "Affiche votre dernier Post Photo"
+
+#: ../resources/classes/widgets/CleioToolbox_FeaturedPhoto.php:90
+msgid "Display the photo title"
+msgstr "Afficher le titre du Post Photo"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:8
+msgid "CleioToolbox - Instagram"
+msgstr ""
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:11
+msgid "Simply display your latest pictures!"
+msgstr "Affichez simplement votre dernier Post Photo!"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:116
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:124
+msgid ""
+"Error: Instagram did not respond. Please wait a few minutes and refresh this "
+"page."
+msgstr ""
+"Erreur: Instagram n'a pas répondu. Veuillez attendre quelques minutes et "
+"rafraîchir cette page."
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:169
+msgid "Log into your account & authorize the application first!"
+msgstr "Connectez votre compte et autorisez l'application d'abord!"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:173
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:136
+msgid "Your account"
+msgstr "Votre compte"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:184
+msgid "Number of pictures:"
+msgstr "Nombre de photos"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:192
+msgid "Display link to Instagram"
+msgstr "Afficher un lien vers votre compte Instagram"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:196
+msgid "Link Title:"
+msgstr "Intitulé du lien"
+
+#: ../resources/classes/widgets/CleioToolbox_Instagram.php:201
+msgid "Thumbnail size (proportional, in pixels)"
+msgstr "Taille des vignettes (proportionnelle, en pixels)"
+
+#: ../resources/classes/widgets/CleioToolbox_Social.php:30
+msgid "CleioToolbox - Social"
+msgstr ""
+
+#: ../resources/classes/widgets/CleioToolbox_Social.php:32
+msgid ""
+"Displays links to your social network profiles and contact data. Configure "
+"this in Cleio > Cleio Framework > Social &amp; Personal Data."
+msgstr ""
+"Affiche vos réseaux sociaux et données personnelles. À configurer d'abord "
+"dans les paramètres Cleio ToolBox."
+
+#: ../resources/classes/widgets/CleioToolbox_Social.php:121
+msgid "Select links and set order (drag & drop)"
+msgstr ""
+"Sélectionnez les données à faire apparaître et choisissez leur ordre (drag & "
+"drop)"
+
+#: ../resources/classes/widgets/CleioToolbox_Social.php:130
+msgid "To display more options, link more networks in"
+msgstr "Pour afficher plus d'options, connectez plus de réseaux sociaux dans"
+
+#: ../resources/classes/widgets/CleioToolbox_Social.php:130
+msgid "Cleio ToolBox Settings"
+msgstr "Paramètres Cleio ToolBox"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:14
+msgid "CleioToolbox - Twitter"
+msgstr ""
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:17
+msgid "Simply display your latest tweets!"
+msgstr "Affichez simplement vos derniers tweets!"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:42
+msgid "Twitter Updates"
+msgstr "Mises à jour Twitter"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:99
+#, php-format
+msgid ""
+"Error: Please make sure the Twitter account is <a href=\"%s\">public</a>."
+msgstr ""
+"Erreur: Veuillez vous assurer que votre compte Twitter soit <a href=\"%s"
+"\">public</a>."
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:127
+msgid "Follow me on Twitter"
+msgstr "Suivez-moi sur Twitter"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:133
+msgid "Login and authorize the application first!"
+msgstr "Connectez-vous et autorisez l'application d'abord!"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:143
+msgid "Maximum number of tweets to show:"
+msgstr "Nombre maximum de tweets à afficher"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:154
+msgid "Hide replies"
+msgstr "Cacher les réponses"
+
+#: ../resources/classes/widgets/CleioToolbox_Twitter.php:158
+msgid "Text for link to Twitter account:"
+msgstr "Intitulé du lien menant à votre compte Twitter"
+
+#~ msgid "Congratulations, you just activated cleio."
+#~ msgstr "Félicitations, vous venez d'activer Cleio!"
+
+#~ msgid "Configuration required. Do it now!"
+#~ msgstr "Configuration requise. Faites-le maintenant!"
+
+#~ msgid "Configure Cleio"
+#~ msgstr "Configurer Cleio"
+
+#~ msgid "Message from Cleio: We found"
+#~ msgstr "Message de Cleio: Nous avons trouvé"
+
+#~ msgid "items</span> that should be geolocated."
+#~ msgstr "contenus</span> à géolocaliser."
+
+#~ msgid "Cleio - Maps"
+#~ msgstr "Cleio - Maps"
+
+#~ msgid "Cleio Maps"
+#~ msgstr "Cleio Maps"
+
+#~ msgid "Installation Helper"
+#~ msgstr "Aide à l'installation"
+
+#~ msgid "Cleio configuration, step 1/3"
+#~ msgstr "Configuration de Cleio, étape 1/3"
+
+#~ msgid ""
+#~ "In order to activate Cleio, we must first connect you to your Cleio&Co "
+#~ "account."
+#~ msgstr ""
+#~ "Pour activer Cleio Maps, il faut avant tout vous connecter à votre compte "
+#~ "Cleio&Co."
+
+#~ msgid "Whoops, we couldn't find you. Try again?"
+#~ msgstr "Oups, nous ne vous avons pas trouvé. Essayez à nouveau?"
+
+#~ msgid "Can't remember your password? You may"
+#~ msgstr "Vous avez oublié votre mot de passe? Vous pouvez"
+
+#~ msgid "reset it here"
+#~ msgstr "le réinitialiser ici"
+
+#~ msgid "Yay! You are connected!"
+#~ msgstr "Youpi! Vous êtes connecté!"
+
+#~ msgid "Go to step 2 &rarr;"
+#~ msgstr "Aller à l'étape 2 &rarr;"
+
+#~ msgid "Cleio configuration, step 2/3"
+#~ msgstr "Configuration de Cleio, étape 2/3"
+
+#~ msgid ""
+#~ "To manage geolocation and maps, Cleio needs to connect to GoogleMaps with "
+#~ "an API key."
+#~ msgstr ""
+#~ "Afin de gérer la géolocalisation et les cartes, Cleio doit se connecter à "
+#~ "GoogleMaps avec une clé API."
+
+#~ msgid "What is an API key? &rarr;"
+#~ msgstr "Qu'est-ce qu'une clé API? &rarr;"
+
+#~ msgid "To get and save your personal API key, follow the instructions:"
+#~ msgstr "Afin d'obtenir votre clé API personnelle, suivez ces instructions:"
+
+#~ msgid "Following the instructions"
+#~ msgstr "Suivre les instructions"
+
+#~ msgid "here"
+#~ msgstr "ici"
+
+#~ msgid "in order to obtain your API Key"
+#~ msgstr "afin d'obtenir votre clé API"
+
+#~ msgid ""
+#~ "Activate the <strong>Google Maps API v3</strong> and <strong>Web Fonts "
+#~ "Developer API</strong> services."
+#~ msgstr ""
+#~ "Activez les services <strong>Google Maps API v3</strong> et <strong>Web "
+#~ "Fonts Developer API</strong>."
+
+#~ msgid "Paste the obtained API key in this field:"
+#~ msgstr "Collez la clé API obtenue dans ce champ:"
+
+#~ msgid "Save API key & go to step 3 &rarr;"
+#~ msgstr "Sauvegarder la clé API et se rendre à l'étape 3 &rarr;"
+
+#~ msgid "Cleio configuration, step 3/3"
+#~ msgstr "Configuration de Cleio, étape 3/3"
+
+#~ msgid "Finalize"
+#~ msgstr "Finaliser"
+
+#~ msgid "Alright!"
+#~ msgstr "Parfait!"
+
+#~ msgid "Cleio has been properly setup. You could start using it by..."
+#~ msgstr ""
+#~ "Cleio a été correctement configuré. Vous pouvez commencer à l'utiliser "
+#~ "comme suit..."
+
+#~ msgid "Updating your current location on your Dashboard"
+#~ msgstr "Mettre à jour votre position géographique sur le Dashboard"
+
+#~ msgid "Reviewing or modifying Cleio options"
+#~ msgstr "Revoir et modifier les options de configuration"
+
+#~ msgid "Creating your first geolocated article"
+#~ msgstr "Créer votre premier post géolocalisé"
+
+#~ msgid "Files have been successfully copied in your theme folder!"
+#~ msgstr ""
+#~ "Les fichiers ont été correctement copiés dans le dossier de votre thème!"
+
+#~ msgid "Files have not been copied."
+#~ msgstr "Les fichiers n'ont pas été copiés."
+
+#~ msgid "Global settings"
+#~ msgstr "Paramètres généraux"
+
+#~ msgid "Geolocation Helper"
+#~ msgstr "Aide à la géolocalisation"
+
+#~ msgid "Post Location Map"
+#~ msgstr "Cartes pour les posts"
+
+#~ msgid "Country List "
+#~ msgstr "Liste des Pays"
+
+#~ msgid "Country Pages "
+#~ msgstr "Pages Pays"
+
+#~ msgid "Where have you been?"
+#~ msgstr "Où êtes-vous allé?"
+
+#~ msgid "Travel plans"
+#~ msgstr "Projets de voyage"
+
+#~ msgid "Global Settings"
+#~ msgstr "Paramètres Généraux"
+
+#~ msgid "What is this?"
+#~ msgstr "Qu'est-ce que c'est?"
+
+#~ msgid "Map provider"
+#~ msgstr "Fournisseur de cartes"
+
+#~ msgid "Why should I pick one?"
+#~ msgstr "Pourquoi dois-je en choisir un?"
+
+#~ msgid "Scroll wheel scaling"
+#~ msgstr "Redimensionnement avec la roulette"
+
+#~ msgid ""
+#~ "Usability recommendation: Disable scroll wheel scaling on all maps.<br /"
+#~ ">Users will still be able to zoom in and out using the map navigation."
+#~ msgstr ""
+#~ "Recommandation ergonomique: Désactivez le redimensionnement avec la "
+#~ "roulette sur toutes les cartes.<br />Les utilisateurs pourront tout de "
+#~ "même zoomer en utilisant la navigation sur les cartes."
+
+#~ msgid "Note that scroll wheel scaling is disabled by default on mobile."
+#~ msgstr ""
+#~ "Note: le redimensionnement avec la roulette est désactivé par défaut sur "
+#~ "mobile."
+
+#~ msgid "Disable scroll wheel on all the maps"
+#~ msgstr ""
+#~ "Désactiver le redimensionnement avec la roulette sur toutes les cartes"
+
+#~ msgid "Country List"
+#~ msgstr "Liste des Pays"
+
+#~ msgid "Display number of entries per country"
+#~ msgstr "Afficher la quantité de contenu par pays"
+
+#~ msgid "Show map of all the countries"
+#~ msgstr "Afficher la carte de tous les pays"
+
+#~ msgid "Map skin "
+#~ msgstr "Apparence de la carte"
+
+#~ msgid "Text color"
+#~ msgstr "Couleur du texte"
+
+#~ msgid "Countries per page"
+#~ msgstr "Pays par page"
+
+#~ msgid "Display "
+#~ msgstr "Afficher"
+
+#~ msgid "countries per page"
+#~ msgstr "pays par page"
+
+#~ msgid ""
+#~ "0 = No limits, all your countries will be displayed on the same page."
+#~ msgstr "0 = Pas de limite, tous les pays seront affichés sur la même page."
+
+#~ msgid "Sort order"
+#~ msgstr "Ordre de tri"
+
+#~ msgid "Display country list alphabetically"
+#~ msgstr "Afficher les pays par ordre alphabétique"
+
+#~ msgid "Display the country with the freshest content first"
+#~ msgstr "Afficher les pays avec le contenu le plus récent d'abord"
+
+#~ msgid "Display style"
+#~ msgstr "Style d'affichage"
+
+#~ msgid "Display thumbnails"
+#~ msgstr "Afficher les vignettes"
+
+#~ msgid "Display a simple, unordered list"
+#~ msgstr "Afficher une liste simple"
+
+#~ msgid "Page Setup"
+#~ msgstr "Configuration de la page"
+
+#~ msgid ""
+#~ "This page displays the country list (we recommend leaving this option as "
+#~ "it is)."
+#~ msgstr ""
+#~ "Cette page héberge la liste des pays (nous vous recommandons de la "
+#~ "laisser telle quelle)."
+
+#~ msgid "Appearance"
+#~ msgstr "Apparence"
+
+#~ msgid "Pin text color"
+#~ msgstr "Couleur du texte dans les épingles de groupe"
+
+#~ msgid "Content items per page"
+#~ msgstr "Quantité de contenu par page"
+
+#~ msgid "0 = No limits, all your posts will be displayed on the same page."
+#~ msgstr "0 = Pas de limite, tous vos posts seront affichés sur la même page."
+
+#~ msgid "Click here to open or close the list"
+#~ msgstr "Cliquez ici pour ouvrir ou fermer la liste"
+
+#~ msgid "linked items "
+#~ msgstr "articles liés"
+
+#~ msgid "No linked content."
+#~ msgstr "Pas de contenu lié."
+
+#~ msgid "Country"
+#~ msgstr "Pays"
+
+#~ msgid "City"
+#~ msgstr "Ville"
+
+#~ msgid "Last visited"
+#~ msgstr "Dernière visite"
+
+#~ msgid "When?"
+#~ msgstr "Quand?"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "1 item"
+#~ msgstr "1 article"
+
+#~ msgid "View"
+#~ msgstr "Voir"
+
+#~ msgid "Place"
+#~ msgstr "Lieu"
+
+#~ msgid "Add New Place"
+#~ msgstr "Ajouter un lieu"
+
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#~ msgid "Edit Place"
+#~ msgstr "Modifier le lieu"
+
+#~ msgid "New Place"
+#~ msgstr "Ajouter un lieu"
+
+#~ msgid "Preview Place"
+#~ msgstr "Prévisualiser le lieu"
+
+#~ msgid "Place Item"
+#~ msgstr "Lieu"
+
+#~ msgid "Permalink"
+#~ msgstr "Permalien"
+
+#~ msgid "Preview country"
+#~ msgstr "Prévisualiser pays"
+
+#~ msgid "Get Shortlink"
+#~ msgstr "Obtenir un lien court"
+
+#~ msgid "Geolocation"
+#~ msgstr "Géolocalisation"
+
+#~ msgid "Hide post location map"
+#~ msgstr "Cacher la carte"
+
+#~ msgid "configure this"
+#~ msgstr "configurer"
+
+#~ msgid "We're not sure about this city! Please help us define it"
+#~ msgstr ""
+#~ "Nous ne sommes pas sûrs d'avoir la bonne ville! Aidez-nous à la définir"
+
+#~ msgid "Submit"
+#~ msgstr "Valider"
+
+#~ msgid "Define the city manually"
+#~ msgstr "Configurer la ville manuellement"
+
+#~ msgid "Edit country"
+#~ msgstr "Modifier pays"
+
+#~ msgid "Location updated!"
+#~ msgstr "Géolocalisation mise à jour!"
+
+#~ msgid "article"
+#~ msgstr "article"
+
+#~ msgid "Address List"
+#~ msgstr "Liste d'adresses"
+
+#~ msgid "Save"
+#~ msgstr "Sauvegarder"
+
+#~ msgid "Skip"
+#~ msgstr "Passer"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "There are no plans yet"
+#~ msgstr "Il n'y pas encore de projet"
+
+#~ msgid ""
+#~ "No related articles yet. This country won't show up in your loops and "
+#~ "menu until you link at least one article to it."
+#~ msgstr ""
+#~ "Pas encore d'article lié. Ce pays ne s'affichera dans vos loops et menus "
+#~ "que lorsque vous y aurez associé un article ou une page."
+
+#~ msgid "No posts to display yet"
+#~ msgstr "Pas encore de posts à afficher"
+
+#~ msgid "Where in the world are you?"
+#~ msgstr "Où vous trouvez-vous?"
+
+#~ msgid "Your current location (since "
+#~ msgstr "Votre position actuelle (depuis"
+
+#~ msgid "is"
+#~ msgstr "est"
+
+#~ msgid "Coordinates"
+#~ msgstr "Coordonnées"
+
+#~ msgid "Where are you now?"
+#~ msgstr "Où êtes-vous maintenant?"
+
+#~ msgid "Update Location"
+#~ msgstr "Mettre à jour la position"
+
+#~ msgid "Your next move is"
+#~ msgstr "Prochain déplacement prévu"
+
+#~ msgid "on "
+#~ msgstr "le"
+
+#~ msgid "Plan your next moves"
+#~ msgstr "Planifier vos prochains déplacements"
+
+#~ msgid "related articles"
+#~ msgstr "articles liés"
+
+#~ msgid "related article"
+#~ msgstr "article lié"
+
+#~ msgid "location review"
+#~ msgstr "Compte rendu"
+
+#~ msgid "Get Directions"
+#~ msgstr "Obtenir les Directions"
+
+#~ msgid "CleioMaps - Countries"
+#~ msgstr "Cleio Maps - Pays"
+
+#~ msgid ""
+#~ "Display a list of your Countries. Simple List or Dropdown, with optional "
+#~ "post count."
+#~ msgstr ""
+#~ "Affiche une liste de vos Pays. Liste simple ou menu déroulant, avec "
+#~ "quantité d'articles liés optionnelle."
+
+#~ msgid "Display as dropdown"
+#~ msgstr "Afficher comme menu déroulant"
+
+#~ msgid "Show post counts"
+#~ msgstr "Afficher le nombre d'articles liés"
+
+#~ msgid "CleioMaps - Where I am"
+#~ msgstr "Cleio Maps - Où suis-je"
+
+#~ msgid ""
+#~ "Where are you right now? Let your users know with a nifty map (uses your "
+#~ "latest Dashboard check-in)."
+#~ msgstr ""
+#~ "Où êtes-vous en ce moment? Faites-le savoir à vos lecteurs à l'aide d'une "
+#~ "mini-carte (utilise votre check-in Dashboard le plus récent)."
+
+#~ msgid "Location display:"
+#~ msgstr "Affichage du lieu:"
+
+#~ msgid "City and country"
+#~ msgstr "Ville et pays"
+
+#~ msgid "City only"
+#~ msgstr "Ville seulement"
+
+#~ msgid "Country only"
+#~ msgstr "Pays seulement"
+
+#~ msgid "Display mini-map"
+#~ msgstr "Afficher la mini-carte"
+
+#~ msgid "Pins:"
+#~ msgstr "Epingles:"
+
+#~ msgid "Map skin:"
+#~ msgstr "Carte:"
+
+#~ msgid "Geolocate your existing content."
+#~ msgstr "Géolocalisez votre contenu existant."
+
+#~ msgid ""
+#~ "Editing is optional. You can skip (arrow icon) any item from the list."
+#~ msgstr ""
+#~ "L'édition est optionnelle. Vous pouvez passer (icône flèche) chaque "
+#~ "article dans la liste."
+
+#~ msgid "Here's the first batch of 20!"
+#~ msgstr "Voilà la première série de 20!"
+
+#~ msgid "We found"
+#~ msgstr "Nous avons trouvé"
+
+#~ msgid "items</span> that need to be edited or verified."
+#~ msgstr "articles</span> nécessitant d'être édités ou vérifiés."
+
+#~ msgid "Your current location is"
+#~ msgstr "Votre position actuelle est"
+
+#~ msgid "since"
+#~ msgstr "depuis"
+
+#~ msgid "Edit your current location on the Dashboard"
+#~ msgstr "Modifiez votre position actuelle sur le Dashboard"
+
+#~ msgid "Where in the world are you? Check-in now"
+#~ msgstr "Où êtes-vous? Effectuez un check-in maintenant"
+
+#~ msgid "on your Dashboard"
+#~ msgstr "sur votre Dashboard"
+
+#~ msgid "Plan your next travels"
+#~ msgstr "Planifiez vos prochains déplacements"
+
+#~ msgid "Add"
+#~ msgstr "Ajouter"
+
+#~ msgid ""
+#~ "To display them on your website, paste the shortcode <code>[wherenext]</"
+#~ "code> into any page or post."
+#~ msgstr ""
+#~ "Pour les afficher sur votre site, collez le shortcode <code>[wherenext]</"
+#~ "code> sur n'importe quelle page ou post."
+
+#~ msgid "Add a new destination"
+#~ msgstr "Ajouter une nouvelle destination"
+
+#~ msgid "Hide map and form"
+#~ msgstr "Cacher carte et formulaire"
+
+#~ msgid "Enter a new location!"
+#~ msgstr "Ajouter un nouveau lieu"
+
+#~ msgid "When ?"
+#~ msgstr "Quand?"
+
+#~ msgid "Add location"
+#~ msgstr "Ajouter un lieu"
+
+#~ msgid "Search existing locations"
+#~ msgstr "Rechercher des lieux existants"
+
+#~ msgid "Places"
+#~ msgstr "Lieux"
+
+#~ msgid "The list of all the places you have visited."
+#~ msgstr "La liste de tous les endroits que vous avez visité."
+
+#~ msgid "Add a new place"
+#~ msgstr "Ajouter un nouveau lieu"
+
+#~ msgid "Hide form and map"
+#~ msgstr "Cacher carte et formulaire"
+
+#~ msgid "When was it?"
+#~ msgstr "C'était quand?"
+
+#~ msgid "Posted in"
+#~ msgstr "Posté dans"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Laisser un commentaire"
+
+#~ msgid "1 comment"
+#~ msgstr "1 commentaire"
+
+#~ msgid "% comments"
+#~ msgstr "% commentaires"
+
+#~ msgid "Next posts"
+#~ msgstr "Articles suivants"
+
+#~ msgid "Previous countries"
+#~ msgstr "Pays précédents"
+
+#~ msgid "Next countries"
+#~ msgstr "Pays suivants"

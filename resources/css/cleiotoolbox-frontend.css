@@ -1,0 +1,27 @@
+/* == Social Widget =================================================== */
+
+.cleiotoolbox-social li{line-height:1.5em;}
+.cleiotoolbox-social li,footer .cleiotoolbox-social li{padding:5px 0 5px 0;background-position:0 3px!important;}
+
+/* == Bio Widget ================================================ */
+
+.cleio-bio img{float:right;margin:0 6px 6px 0;}
+
+/* == Archives ======================================================= */
+
+.exile-archives ul{list-style-type:none;}
+.exile-archives li{margin:0;padding:0;overflow:hidden;}
+.exile-archives li li li{border-bottom:1px solid #ededed;}
+.exile-archives-post-day{font-weight:bold;padding-right:10px;}
+.exile-archives-year h3{margin:30px 0 -10px 0;padding:0;} /*year*/
+.exile-archives-year h4{margin:30px 0 10px 0;padding:0;} /*month*/
+.exile-archives-comment-count{display:inline-block;float:right;}
+.exile-pagination-years{font-weight:bold;}
+
+/* == Twitter + Instagram Widgets ==================================== */
+
+.exile-twitter,.exile-instagram-account{border-bottom:1px solid #ededed;}
+.exile-twitter li{border-top:1px solid #ededed;padding:4px 0;}
+.exile-twitter-account,.exile-instagram-account{display:block;padding:4px 0 8px 0px;}
+.exile-instagram li{float:left;padding:0 5px 5px 5px;}
+.exile-instagram ul{margin-top:8px;}
